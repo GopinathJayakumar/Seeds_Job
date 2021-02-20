@@ -14,7 +14,7 @@ job("jobName"){
 	maven('package')
   }
   publishers{
-	mailer('gopirandom@gmail.com', true, true)
+	mailer('jayakumarsanthosam@gmail.com', true, true)
   }
 
 }
